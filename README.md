@@ -1,4 +1,4 @@
-//Singly linked list 
+//Singly linked list;simple program 
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
